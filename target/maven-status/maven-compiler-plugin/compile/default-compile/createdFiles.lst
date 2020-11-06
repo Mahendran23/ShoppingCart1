@@ -1,0 +1,7 @@
+com\demo\entities\Item.class
+com\demo\models\InsertData.class
+com\demo\servlets\CartServlet.class
+com\demo\models\DatabaseConnection.class
+com\demo\models\ProductModel.class
+com\demo\servlets\ProductServlet.class
+com\demo\entities\Product.class
